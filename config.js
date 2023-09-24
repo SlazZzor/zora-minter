@@ -7,7 +7,7 @@ const infuraApiKey = "";                            // IPFS Infura Api Key
                                                     // если ключ не указан, берётся случайная 
                                                     // существующая или не существующая картинка
 const infuraApiSecret = "";                         // IPFS Infura Api Key Secret
-const proxyUrl = "";                                // Proxy для RPC Зоры
+const proxyUrl = "";                                // Proxy для RPC Зоры, формат http://login:pass@ip:port/
 const shuffleKeys = true;                           // true - перемешивать аккаунты, false - не перемешивать
 const maxThreads = 1;                               // количество потоков
 
