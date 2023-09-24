@@ -1,0 +1,21 @@
+{
+  "name": "zoraminter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.7.1",
+    "https-proxy-agent": "^7.0.0",
+    "ipfs-http-client": "^56.0.2",
+    "node-fetch": "^2.6.11",
+    "promise-status-async": "^1.2.10"
+  },
+  "devDependencies": {
+    "@babel/helper-compilation-targets": "^7.22.15"
+  }
+}
